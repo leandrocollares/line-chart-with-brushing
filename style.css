@@ -1,0 +1,31 @@
+h1 {
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+svg {
+  display: block;
+  margin: auto;	
+}
+
+.line {
+  fill: none;
+  stroke: #016c59;
+  stroke-width: 2px;
+  clip-path: url(#clip);
+}
+
+.x-axis, .y-axis {
+  font-size: 14px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+}
+
+.x-axis path{
+	fill: none;
+	stroke: none;
+}
+
+
