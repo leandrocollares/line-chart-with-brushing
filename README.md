@@ -4,7 +4,7 @@ This interactive visualization comprises a focus chart and a small context chart
 
 Implemented with D3.js version 4.x, the visualization was adapted from Mike Bostock's [Brush & Zoom block](https://bl.ocks.org/mbostock/34f08d5e11952a80609169b7917d4172).
 
-You can interact with the visualization here: https://leandrocollares.github.io/line-chart-brushing/.
+You can interact with the visualization here: https://leandrocollares.github.io/line-chart-with-brushing/.
 
 ## Getting started
 
