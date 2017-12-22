@@ -1,6 +1,6 @@
 h1 {
   font-size: 20px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif; 
   font-weight: 400;
   text-align: center;
 }
@@ -19,13 +19,19 @@ svg {
 
 .x-axis, .y-axis {
   font-size: 14px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif; 
   font-weight: 400;
 }
 
 .x-axis path{
 	fill: none;
 	stroke: none;
+}
+
+.axis-label {
+  font-size: 14px;
+  font-family: 'Source Sans Pro', sans-serif; 
+  font-weight: 400;
 }
 
 

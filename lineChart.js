@@ -86,8 +86,8 @@ d3.csv("temperatures.csv", type, function(error, data) {
         .ticks(11, "s"));
 
   focus.append("text")
+      .attr("class", "axis-label") 
       .attr("y", -12)
-      .style("font-size", "13px")
       .style("text-anchor", "middle")
       .text("temp (°C)");     
 
@@ -107,9 +107,9 @@ d3.csv("temperatures.csv", type, function(error, data) {
       .call(brush.move, xScale.range());
 
   context.append("text")
+      .attr("class", "axis-label") 
       .attr("x", width / 2)
       .attr("y", 80)
-      .style("font-size", "13px")
       .style("text-anchor", "middle")
       .text("date/time");    
 });
