@@ -2,7 +2,8 @@
 
 This interactive visualization comprises a focus chart and a small context chart. By selecting the x-domain range in the context chart, users can control the amount of data shown in the focus chart. 
 
-Implemented with D3.js version 4.x, the visualization was adapted from Mike Bostock's [Brush & Zoom]  (https://bl.ocks.org/mbostock/34f08d5e11952a80609169b7917d4172) block.
+Implemented with D3.js version 4.x, the visualization was adapted from Mike Bostock's
+[Brush & Zoom](https://bl.ocks.org/mbostock/34f08d5e11952a80609169b7917d4172) block.
 
 ## Getting started
 
