@@ -19,4 +19,4 @@ Implemented with D3.js version 4.x, the visualization was adapted from Mike Bost
 
 ## Data source
 
-Government of Canada - [Historical Climate Data](http://climate.weather.gc.ca/historical_data/search_historic_data_stations_e.html?searchType=stnName&timeframe=1&txtStationName=VICTORIA+INTL+A&searchMethod=contains&optLimit=yearRange&StartYear=1840&EndYear=2017&Year=2017&Month=12&Day=21&selRowPerPage=25)
+[Government of Canada - Historical Climate Data](http://climate.weather.gc.ca/historical_data/search_historic_data_stations_e.html?searchType=stnName&timeframe=1&txtStationName=VICTORIA+INTL+A&searchMethod=contains&optLimit=yearRange&StartYear=1840&EndYear=2017&Year=2017&Month=12&Day=21&selRowPerPage=25)
